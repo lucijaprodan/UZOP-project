@@ -2,4 +2,4 @@
 
 ## Description
 
-This is an Introduction to Data Science course project based on an Implementation of Machine Learning Model to Predict Heart Failure Disease article.
+This is a project for Introduction to Data Science course based on an Implementation of Machine Learning Model to Predict Heart Failure Disease article.
